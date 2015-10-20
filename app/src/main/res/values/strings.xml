@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GridImageSearch</string>
+    <string name="search_prompt">Enter Search Query</string>
+    <string name="search_label">Search</string>
+    <string name="image_title_label">Image Title</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_advanced_search_options">Advanced Search Options</string>
+    <string name="image_size">Image Size</string>
+    <string name="color_filter">Color Filter</string>
+    <string name="image_type">Image Type</string>
+    <string name="site_filter">Site Filter</string>
+    <string name="ok">OK</string>
+    <string-array name="image_types">
+        <item>None</item>
+        <item>Face</item>
+        <item>Photo</item>
+        <item>Clip Art</item>
+        <item>Line Art</item>
+    </string-array>
+    <string-array name="image_sizes">
+        <item>None</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+    <string-array name="image_colors">
+        <item>None</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>
